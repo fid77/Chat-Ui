@@ -1,0 +1,5 @@
+{
+  "name": "VibeChat",
+  "description": "A modern, responsive chat interface inspired by WhatsApp and Messenger, featuring real-time message updates, emoji support, and auto-scrolling.",
+  "requestFramePermissions": []
+}
